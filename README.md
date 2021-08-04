@@ -9,7 +9,7 @@ reference: https://github.com/matterport/Mask_RCNN
 
 ## Prospects
 
-## STEP
+## Step
 
 ## Methodology
 
