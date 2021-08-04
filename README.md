@@ -1,9 +1,9 @@
 # Badminton_MRCNN
 ## Introduction
 
-## 
+## STEP
 
-## step
+## Pornpawee CHOCHUWONG vs. TAI Tzu Ying BWF2020
 
 ## 上半局
 <center><img src='./results/output_7m2cKr.gif' width='800px'></center>
