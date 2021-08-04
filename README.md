@@ -9,9 +9,9 @@ reference: https://github.com/matterport/Mask_RCNN
 
 ## Prospects
 
-## Methodology
-
 ## STEP
+
+## Methodology
 
 ## MRCNN
 <center><img src='./results/pic.png' width='1000px'></center>
