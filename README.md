@@ -11,7 +11,7 @@
 ## Methodology
 
 ## STEP
-<center><img src='./results/pic.png' width='800px'></center>
+<center><img src='./results/pic.png' width='1000px'></center>
 
 ## Pornpawee CHOCHUWONG vs. TAI Tzu Ying BWF2020
 Winner: TAI Tzu Ying
