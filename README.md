@@ -1,4 +1,4 @@
-# Badminton_MRCNN
+# Winning_strategy_generation_MRCNN
 reference: https://github.com/matterport/Mask_RCNN
 ## Abstract
 因了解到國內外重要體育賽事長期被熱烈關注而延伸出運動科學相關研究，而對人類體育活動進行科學化分析。本論文基於Mask Region based Convolution Neural Networks (Mask-RCNN)為主要模型，將YOUTUBE開放之國際羽球賽事的影片下載後，自動化截大量圖片作為本實驗之輸入資料。最終透過模型追蹤打者得到雙方的運動軌跡與動態圖，以便於往後更深入的研究。
