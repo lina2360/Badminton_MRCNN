@@ -1,6 +1,6 @@
 ## TAI Tzu Ying vs. HE Bing Jiao BWF 2020
 
-Winner: 
+Winner: TAI Tzu Ying
 
 ### 第一局
 <center><img src='./Webp.net-gifmaker (6).gif' width='800px'></center>
