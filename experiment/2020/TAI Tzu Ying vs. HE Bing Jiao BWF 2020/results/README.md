@@ -3,7 +3,7 @@
 Winner: 
 
 ### 第一局
-<center><img src='./results/Webp.net-gifmaker (6).gif' width='800px'></center>
+<center><img src='./Webp.net-gifmaker (6).gif' width='800px'></center>
 <center><img src='./results/Webp.net-gifmaker (4).gif' width='800px'></center>
 
 
