@@ -8,7 +8,7 @@ Winner:
 
 
 ### 第二局
-<center><img src='./results/Webp.net-gifmaker (3).gif' width='800px'></center>
+<center><img src='./Webp.net-gifmaker (7).gif' width='800px'></center>
 <center><img src='./results/Webp.net-gifmaker (5).gif' width='800px'></center>
 
 
