@@ -8,7 +8,7 @@ Winner: TAI Tzu Ying
 
 ### 第二局
 <center><img src='./results/Webp.net-gifmaker (3).gif' width='800px'></center>
-<center><img src='./results/Webp.net-gifmaker (5).gif' width='800px'></center>
+<center><img src='./results/tp202002.gif' width='800px'></center>
 
 
 TAI Tzu Ying 路徑長:**573222.25**
