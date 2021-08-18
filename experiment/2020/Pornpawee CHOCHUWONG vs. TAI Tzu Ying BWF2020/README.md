@@ -3,7 +3,7 @@ Winner: TAI Tzu Ying
 
 ### 第一局
 <center><img src='./results/output_7m2cKr.gif' width='800px'></center>
-<center><img src='./results/Webp.net-gifmaker (4).gif' width='800px'></center>
+<center><img src='./results/tp202001.gif' width='800px'></center>
 
 
 ### 第二局
