@@ -11,6 +11,12 @@ reference: https://github.com/matterport/Mask_RCNN
 
 ## Step
 
+### 每0.5秒截取一張圖片
+### 大量圖片中篩選特定畫面
+### 修正梯形至方形
+### MRCNN 分析影像和紀錄座標
+### GIF製作與路徑長分析
+
 ## Methodology
 
 ## MRCNN
@@ -19,8 +25,4 @@ reference: https://github.com/matterport/Mask_RCNN
 reference: https://blog.csdn.net/Cleo_Gao/article/details/116235091
 
 
-### 每0.5秒截取一張圖片
-### 大量圖片中篩選特定畫面
-### 修正梯形至方形
-### MRCNN 分析影像和紀錄座標
-### GIF製作與路徑長分析
+
