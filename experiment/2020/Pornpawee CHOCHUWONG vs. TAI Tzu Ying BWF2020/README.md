@@ -6,7 +6,7 @@ Winner: TAI Tzu Ying
 <center><img src='./results/tp202001.gif' width='800px'></center>
 
 #### 失分點
-<center><img src='./results/result1/0280#.png' width='800px'></center>
+<center><img src='./results/result1/0280# .png' width='800px'></center>
 
 ####  位置
 <center><img src='./results/result3/0280.png' width='800px'></center>
