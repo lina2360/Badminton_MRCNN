@@ -23,4 +23,4 @@ reference: https://blog.csdn.net/Cleo_Gao/article/details/116235091
 ### 大量圖片中篩選特定畫面
 ### 修正梯形至方形
 ### MRCNN 分析影像和紀錄座標
-### GIF製作與路徑長分析
+### GIF製作呈現與失分點、位置、路徑長分析
